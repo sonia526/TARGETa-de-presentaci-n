@@ -1,0 +1,61 @@
+body{
+	margin: 0;
+	padding: 0;
+	align-content:  center;
+}
+.contenedor{
+	align-content: center;
+}
+#rojo{
+	background-color: red;
+	width: 400px;
+	height: 400px;
+	left:  0px;
+	position: relative;
+	margin: 100px;
+}
+#morado{
+	background-color: purple;
+	width: 250px;
+	height: 250px;
+	/*margin:50px;*/
+	left: 70px;
+	top: 70px;
+
+	position: absolute;
+}
+#amarillo{
+	background-color: yellow;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 70px;
+	top: 70px;
+
+}
+#azul{
+	background-color: blue;
+	width: 400px;
+	height: 400px;
+	left: : 100px;
+	position: relative;
+	/*padding: 100px;*/
+	margin: 100px;
+}
+
+#verde{
+	background-color: green ;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	top: 100px;
+	left: 100px;
+}
+#negro{
+	background-color: black;
+	position: absolute;
+	width: 100px;
+	top: 0;
+	height: 100px;
+
+}

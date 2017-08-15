@@ -1,0 +1,38 @@
+body{
+	margin-bottom: auto;
+
+}
+#logo{
+   position:relative;
+   bottom: -605px;
+   right: -150px;
+}
+#sonia{
+		background-color: red;
+		width: 500px;
+		height: 600px;
+		left:  0px;
+		position: relative;
+		margin: 100px
+		bottom: -807px;
+		right: -500px;
+}
+#laboratoria{
+bottom: -100px;
+top: -100px;
+position: relative;
+}
+
+#plomo{
+margin : -707px;
+  left: 250px;
+  width: 400px;
+  border-left: 380px solid transparent;
+  border-bottom: 600px solid #5E5B5A;
+  position: relative;
+}
+h3{
+	color: white;
+	z-index: auto;
+	position: relative;
+}
